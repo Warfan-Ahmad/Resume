@@ -8,7 +8,7 @@
 #header
 {
     height: 100vh;
-    background:url(/img/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg);
+    background:url(.../img/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
