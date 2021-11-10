@@ -8,7 +8,7 @@
 #header
 {
     height: 100vh;
-    background-image:url(https://warfan-ahmad.github.io/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg);
+    background-image:url(../img/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -226,7 +226,7 @@
 
 .contact{
     padding-top: 50px;
-    background-image:url(https://warfan-ahmad.github.io/pexels-oleg-magni-1040473.jpg);
+    background-image:url(../img/pexels-oleg-magni-1040473.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -265,6 +265,11 @@
 }
 .contact .btn .fas{
     margin-right: 10px;
+}
+.mailto
+{
+    text-decoration: none;
+    color: white;
 }
 .footer
 {
